@@ -1,0 +1,43 @@
+Carregando arquivo: sensores_teste.log
+Linhas carregadas: 864000
+
+============================================================
+  RESULTADOS - ANALISADOR SEQUENCIAL
+  Estrategia: processamento sequencial em memoria
+============================================================
+
+Total de linhas processadas : 864000
+Tempo de execucao           : 0.054806 segundos
+
+------------------------------------------------------------
+MEDIAS DE TEMPERATURA POR SENSOR (primeiros 10)
+------------------------------------------------------------
+Sensor            Leituras        Media          Min          Max
+sensor_004           86400        26.52        14.40        42.00
+
+------------------------------------------------------------
+SENSOR MAIS INSTAVEL
+------------------------------------------------------------
+ID: sensor_004 | Desvio padrao: 4.466128
+
+------------------------------------------------------------
+TOTAIS
+------------------------------------------------------------
+Total de ALERTA + CRITICO : 63748
+  ALERTA                  : 49582
+  CRITICO                 : 14166
+Consumo total de energia  : 85324324.30 Wh
+
+------------------------------------------------------------
+ANOMALIAS (ate 10 primeiras de 6666)
+------------------------------------------------------------
+sensor_007   | 2026-03-01 00:00:21 | umidade      | valor=   84.00 | media=   50.08 | desvio=    5.42
+sensor_003   | 2026-03-01 00:01:19 | umidade      | valor=   24.00 | media=   50.06 | desvio=    5.35
+sensor_001   | 2026-03-01 00:01:22 | corrente     | valor=    0.40 | media=    2.76 | desvio=    0.57
+sensor_002   | 2026-03-01 00:01:32 | umidade      | valor=   84.00 | media=   50.07 | desvio=    5.39
+sensor_006   | 2026-03-01 00:01:53 | umidade      | valor=   84.00 | media=   50.02 | desvio=    5.37
+sensor_009   | 2026-03-01 00:02:07 | corrente     | valor=    0.40 | media=    2.75 | desvio=    0.58
+sensor_005   | 2026-03-01 00:02:11 | corrente     | valor=    6.00 | media=    2.75 | desvio=    0.58
+sensor_003   | 2026-03-01 00:02:30 | umidade      | valor=   24.00 | media=   50.06 | desvio=    5.35
+sensor_007   | 2026-03-01 00:02:30 | umidade      | valor=   84.00 | media=   50.08 | desvio=    5.42
+sensor_003   | 2026-03-01 00:03:07 | umidade      | valor=   84.00 | media=   50.06 | desvio=    5.35
