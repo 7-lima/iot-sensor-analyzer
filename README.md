@@ -1,6 +1,8 @@
 # Projeto 1 - Analisador de Logs de Sensores IoT
-**Aluno:** Rafael de Souza Alves de Lima  
-**RA:** 10425819  
+**Alunos:** Rafael de Souza Alves de Lima - RA: 10425819  
+Pedro Augusto Yoshikuni - RA: 10410287  
+Diogo Cornelio Martins Rosa – RA: 10403852
+
 
 ## Arquivos da entrega
 - `sensor_analyzer_seq.c` -> versão sequencial
