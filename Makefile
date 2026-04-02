@@ -1,5 +1,7 @@
 # Projeto 1 - Analisador de Logs de Sensores IoT
 # Rafael de Souza Alves de Lima - RA: 10425819
+# Pedro Augusto Yoshikuni - RA: 10410287  
+# Diogo Cornelio Martins Rosa – RA: 10403852
 
 CC      = gcc
 CFLAGS  = -Wall -Wextra -O2 -std=c11
